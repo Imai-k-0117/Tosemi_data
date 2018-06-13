@@ -4,4 +4,4 @@
 CHECK YOUR ABILITY.
 
 
-![プレビュー.PNG](https://github.com/Imai-k-0117/Tosemi_data/blob/master/img/プレビュー.PNG)
+![p1](https://user-images.githubusercontent.com/33614434/41375759-fb84d3ca-6f91-11e8-86ad-f93bb5da7a73.PNG)
